@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>RandomSolutions.GenerateBinaryStringForGivenPattern</StartupObject>
+    <StartupObject>RandomSolutions.KthNonRepeating</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GenerateBinaryStringForGivenPattern.cs" />
+    <Compile Include="KthNonRepeating.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
